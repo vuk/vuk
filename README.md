@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vuk
-- 👀 I’m mostly working with JavaScript, PHP and AWS
+- 👀 I’m mostly working with JavaScript, Python, PHP and AWS
 
 <!---
 vuk/vuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
